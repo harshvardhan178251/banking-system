@@ -158,9 +158,3 @@ I can also give you:
 - 🎤 :contentReference[oaicite:2]{index=2}  
 
 ---
-
-👉 Tell me:
-
-**“give report” OR “add transaction history”**
-
-I’ll take your project to **top level 💯**
