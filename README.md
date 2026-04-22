@@ -125,13 +125,10 @@ REST API design
 Database integration
 Real-world banking logic implementation
 Frontend-backend communication
-📸 Screenshots
-
-(Add your project screenshots here)
 
 👨‍💻 Author
 
-Your Name
+REDDY HARSHVARDHAN
 
 ⭐ Conclusion
 
@@ -140,21 +137,5 @@ This project demonstrates a real-world banking workflow using scalable architect
 
 ---
 
-# 🔥 THIS README IS NOW:
 
-✅ Final year project level  
-✅ Resume-ready  
-✅ GitHub professional  
-✅ Covers architecture + setup + APIs  
 
----
-
-# 🚀 EXTRA (if you want)
-
-I can also give you:
-
-- 📸 :contentReference[oaicite:0]{index=0}  
-- 📄 :contentReference[oaicite:1]{index=1}  
-- 🎤 :contentReference[oaicite:2]{index=2}  
-
----
